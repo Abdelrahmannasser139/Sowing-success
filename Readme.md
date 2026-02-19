@@ -57,7 +57,7 @@ Build a reliable machine learning model that recommends the **most suitable crop
 
 ## How to Use
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/Abdelrahmannasser139/sowing-success.git
 
@@ -75,5 +75,6 @@ jupyter notebook
 ## 🛠️ Technologies Used
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Environment:** Jupyter Notebook
 - **Environment:** Jupyter Notebook
 
